@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.source.repository.EmpTestRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.633 s -- in com.example.source.repository.EmpTestRepositoryTest
