@@ -1,0 +1,9 @@
+# T-Mobile Samson
+# Component: backend-api
+# Owner: samson-platform
+# Description: Default test configuration pointing to H2
+# Confidential - T-Mobile USA Inc. For internal use only.
+
+spring:
+  profiles:
+    active: h2
